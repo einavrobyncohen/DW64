@@ -1,41 +1,41 @@
-,Title,Normalized_Show_Name,Total Hours Viewed in 2023,Total Posts (2024),Total Comments (2024),Cancelled
-0,"Ada Twist, Scientist: Season 4",ada twist scientist,7700000,0,0,True
-1,Agent Elvis: Season 1,agent elvis,6600000,0,0,True
+,Title,Normalized_Show_Name,Total Hours Viewed in 2023,Total Posts (2023),Total Comments (2023),Cancelled
+0,"Ada Twist, Scientist: Season 4",ada twist scientist,7700000,1,19,True
+1,Agent Elvis: Season 1,agent elvis,6600000,6,629,True
 2,Bake Squad: Season 2,bake squad,57600000,0,0,True
-3,Bling Empire: New York: Season 1,bling empire new york,38700000,1,8,True
-4,Copenhagen Cowboy: Season 1,copenhagen cowboy,8900000,0,0,True
-5,Dance 100: Season 1,dance 100,18800000,3,112,True
+3,Bling Empire: New York: Season 1,bling empire new york,38700000,65,4922,True
+4,Copenhagen Cowboy: Season 1,copenhagen cowboy,8900000,4,159,True
+5,Dance 100: Season 1,dance 100,18800000,1,31,True
 6,Emergency: NYC: Season 1,emergency nyc,48100000,0,0,True
-7,Freeridge: Season 1,freeridge,26700000,0,0,True
-8,Glamorous: Season 1,glamorous,87900000,4,111,True
-9,Invisible City: Season 2 // Cidade Invisível: Temporada 2,invisible city,33900000,0,0,True
-10,Lockwood & Co.: Season 1,lockwood  co,129300000,10,508,True
-11,My Dad the Bounty Hunter: Season 1,my dad the bounty hunter,86500000,0,0,True
-12,Next in Fashion: Season 2,next in fashion,86600000,1,34,True
-13,Oddballs: Season 2,oddballs,25300000,3,223,True
-14,Pressure Cooker: Season 1,pressure cooker,41000000,3,157,True
+7,Freeridge: Season 1,freeridge,26700000,2,483,True
+8,Glamorous: Season 1,glamorous,87900000,5,537,True
+9,Invisible City: Season 2 // Cidade Invisível: Temporada 2,invisible city,33900000,2,45,True
+10,Lockwood & Co.: Season 1,lockwood  co,129300000,29,3597,True
+11,My Dad the Bounty Hunter: Season 1,my dad the bounty hunter,86500000,3,177,True
+12,Next in Fashion: Season 2,next in fashion,86600000,4,476,True
+13,Oddballs: Season 2,oddballs,25300000,5,135,True
+14,Pressure Cooker: Season 1,pressure cooker,41000000,3,143,True
 15,Ridley Jones: Season 5,ridley jones,12200000,0,0,True
 16,Sex/Life: Season 2,sexlife,203800000,0,0,True
-17,Shadow and Bone: Season 2,shadow and bone,219300000,8,583,True
-18,Welcome to Eden: Season 2 // Bienvenidos a Edén: Temporada 2,welcome to eden,122500000,0,0,True
+17,Shadow and Bone: Season 2,shadow and bone,219300000,20,2248,True
+18,Welcome to Eden: Season 2 // Bienvenidos a Edén: Temporada 2,welcome to eden,122500000,1,36,True
 19,Wellmania: Season 1,wellmania,50900000,0,0,True
 20,Record of Youth: Season 1 // 청춘기록: 시즌 1,record of youth,45400000,0,0,False
-21,The Guest: Season 1 // 손 the guest: 시즌1,the guest,10000000,79,7543,False
-22,Dated and Related: Season 1,dated and related,13700000,3,336,False
-23,Warrior Nun: Season 2,warrior nun,33500000,6,80,False
-24,Exposed: The Case Of Keli Lane: Season 1,exposed the case of keli lane,400000,0,0,False
-25,The Beautiful Lie: Season 1,the beautiful lie,600000,4,258,False
-26,Extraordinary Attorney Woo: Season 1 // 이상한 변호사 우영우: 시즌 1,extraordinary attorney woo,204800000,2,47,False
-27,Pending Train: Season 1 // ペンディングトレイン―8時23分、明日 君と: シーズン1,pending train,12600000,0,0,False
-28,Come Dine with Me: Series 13,come dine with me,5400000,0,0,False
-29,Attack on Pearl Harbor: Minute by Minute: Season 1,attack on pearl harbor minute by minute,4000000,1,39,False
-30,You Are My Spring: Season 1 // 너는 나의 봄: 시즌 1,you are my spring,16800000,0,0,False
+21,The Guest: Season 1 // 손 the guest: 시즌1,the guest,10000000,93,5696,False
+22,Dated and Related: Season 1,dated and related,13700000,8,311,False
+23,Warrior Nun: Season 2,warrior nun,33500000,12,858,False
+24,Exposed: The Case Of Keli Lane: Season 1,exposed the case of keli lane,400000,5,69,False
+25,The Beautiful Lie: Season 1,the beautiful lie,600000,5,309,False
+26,Extraordinary Attorney Woo: Season 1 // 이상한 변호사 우영우: 시즌 1,extraordinary attorney woo,204800000,5,115,False
+27,Pending Train: Season 1 // ペンディングトレイン―8時23分、明日 君と: シーズン1,pending train,12600000,1,23,False
+28,Come Dine with Me: Series 13,come dine with me,5400000,2,252,False
+29,Attack on Pearl Harbor: Minute by Minute: Season 1,attack on pearl harbor minute by minute,4000000,45,3856,False
+30,You Are My Spring: Season 1 // 너는 나의 봄: 시즌 1,you are my spring,16800000,1,13,False
 31,Luna Petunia: Season 3,luna petunia,1300000,0,0,False
-32,Dirty Money: Season 2,dirty money,4100000,4,601,False
-33,You are My Destiny: Season 1 // 운명처럼 널 사랑해: Season 1,you are my destiny,8100000,2,331,False
-34,iZombie: Season 5,izombie,9900000,17,1467,False
-35,In the Dark (2019): Season 4,in the dark 2019,15000000,3,577,False
-36,Terrace House: Aloha State: Part 4 // テラスハウス Aloha State: Part 4,terrace house aloha state,1300000,0,0,False
-37,Spirit Riding Free: Riding Academy: Part 2,spirit riding free riding academy,12600000,0,0,False
+32,Dirty Money: Season 2,dirty money,4100000,5,214,False
+33,You are My Destiny: Season 1 // 운명처럼 널 사랑해: Season 1,you are my destiny,8100000,1,178,False
+34,iZombie: Season 5,izombie,9900000,3,144,False
+35,In the Dark (2019): Season 4,in the dark 2019,15000000,5,223,False
+36,Terrace House: Aloha State: Part 4 // テラスハウス Aloha State: Part 4,terrace house aloha state,1300000,13,871,False
+37,Spirit Riding Free: Riding Academy: Part 2,spirit riding free riding academy,12600000,65,5188,False
 38,DRIFTING DRAGONS: Season 1 // 空挺ドラゴンズ: シーズン1,drifting dragons,1700000,0,0,False
 39,50M2: Season 1,50m2,7900000,0,0,False
